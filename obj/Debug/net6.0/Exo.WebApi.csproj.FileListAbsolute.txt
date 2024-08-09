@@ -845,7 +845,6 @@ C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debu
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\dotnet-ef.dll
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -1081,3 +1080,4 @@ C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debu
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
+C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

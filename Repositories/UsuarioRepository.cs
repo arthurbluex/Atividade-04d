@@ -1,3 +1,6 @@
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
 using Exo.WebApi.Contexts;
 using Exo.WebApi.Models;
 using System.Collections.Generic;
@@ -6,6 +9,7 @@ namespace Exo.WebApi.Repositories
 {
 public class UsuarioRepository
 {
+    
 private readonly ExoContext _context;
 public UsuarioRepository(ExoContext context)
 {
