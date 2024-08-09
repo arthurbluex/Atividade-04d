@@ -1080,3 +1080,4 @@ C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debu
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\costa\Downloads\04c - Atividade 3\04c - Atividade 3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
